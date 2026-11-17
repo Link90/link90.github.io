@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.link90.finfree",
+      "sha256_cert_fingerprints": [
+        "54:45:9C:CC:B4:32:73:4B:94:E3:73:D0:4B:82:8D:C6:12:3C:6A:3B:1B:D1:D5:20:2D:70:B5:E9:DF:B9:07:BE"
+      ]
+    }
+  }
+]
